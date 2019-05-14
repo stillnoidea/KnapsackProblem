@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.12)
+project(lab4)
+
+#set(CMAKE_CXX_STANDARD 98)
+set(CMAKE_CXX_STANDARD 11)
+#set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+
+add_executable(lab4 main.cpp genetic_algorithm/individual.h genetic_algorithm/genetic_algorithm.h genetic_algorithm/knapsack_problem.h consts.h genetic_algorithm/random_generator.cpp genetic_algorithm/random_generator.h menu/c_command.cpp menu/c_command.h menu/c_menu.cpp menu/c_menu.h menu/c_menu_command.cpp menu/c_menu_command.h menu/c_menu_item.cpp menu/c_menu_item.h menu/util.cpp menu/util.h genetic_algorithm/coordinator.cpp genetic_algorithm/coordinator.h genetic_algorithm/knapsack_problem.cpp commands/initialize_int_problem.cpp commands/initialize_int_problem.h commands/run_int_problem.cpp commands/run_int_problem.h commands/set_item_in_int_problem.cpp commands/set_item_in_int_problem.h commands/initialize_bool_problem.cpp commands/initialize_bool_problem.h commands/initialize_double_problem.cpp commands/initialize_double_problem.h commands/run_double_problem.cpp commands/run_double_problem.h commands/run_bool_problem.cpp commands/run_bool_problem.h commands/set_item_in_bool_problem.cpp commands/set_item_in_bool_problem.h commands/set_item_in_double_problem.cpp commands/set_item_in_double_problem.h commands/initialize_bool_ga.cpp commands/initialize_bool_ga.h commands/initialize_int_ga.cpp commands/initialize_int_ga.h commands/initialize_double_ga.cpp commands/initialize_double_ga.h genetic_algorithm/individual.cpp)

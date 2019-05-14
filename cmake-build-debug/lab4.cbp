@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab4">
+				<Option output="C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/lab4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab4/fast">
+				<Option output="C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/lab4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Studia/III/zmpo/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_bool_ga.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_bool_ga.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_bool_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_bool_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_double_ga.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_double_ga.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_double_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_double_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_int_ga.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_int_ga.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_int_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/initialize_int_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/run_bool_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/run_bool_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/run_double_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/run_double_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/run_int_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/run_int_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/set_item_in_bool_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/set_item_in_bool_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/set_item_in_double_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/set_item_in_double_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/set_item_in_int_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/commands/set_item_in_int_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/consts.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/genetic_algorithm/coordinator.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/genetic_algorithm/coordinator.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/genetic_algorithm/genetic_algorithm.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/genetic_algorithm/individual.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/genetic_algorithm/individual.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/genetic_algorithm/knapsack_problem.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/genetic_algorithm/knapsack_problem.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/genetic_algorithm/random_generator.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/genetic_algorithm/random_generator.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/main.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/c_command.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/c_command.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/c_menu.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/c_menu.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/c_menu_command.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/c_menu_command.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/c_menu_item.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/c_menu_item.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/util.cpp">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/menu/util.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Studia/III/zmpo/lab4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
